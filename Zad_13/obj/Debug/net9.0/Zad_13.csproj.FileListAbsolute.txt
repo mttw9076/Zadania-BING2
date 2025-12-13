@@ -1,0 +1,4 @@
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_13\obj\Debug\net9.0\Zad_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_13\obj\Debug\net9.0\Zad_13.AssemblyInfoInputs.cache
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_13\obj\Debug\net9.0\Zad_13.AssemblyInfo.cs
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_13\obj\Debug\net9.0\Zad_13.csproj.CoreCompileInputs.cache

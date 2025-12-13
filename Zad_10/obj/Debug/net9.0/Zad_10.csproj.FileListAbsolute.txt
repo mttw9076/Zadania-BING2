@@ -1,0 +1,14 @@
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\bin\Debug\net9.0\Zad_10.exe
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\bin\Debug\net9.0\Zad_10.deps.json
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\bin\Debug\net9.0\Zad_10.runtimeconfig.json
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\bin\Debug\net9.0\Zad_10.dll
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\bin\Debug\net9.0\Zad_10.pdb
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.AssemblyInfoInputs.cache
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.AssemblyInfo.cs
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.csproj.CoreCompileInputs.cache
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.dll
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\refint\Zad_10.dll
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.pdb
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\Zad_10.genruntimeconfig.cache
+C:\Users\mtszp\Desktop\Nauka\Zadania BING2\Zad_10\obj\Debug\net9.0\ref\Zad_10.dll
