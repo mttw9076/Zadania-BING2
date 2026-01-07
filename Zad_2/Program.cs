@@ -40,7 +40,7 @@ class Program
             case "2":
                 Console.Write("Enter temperature in Fahrenheit: ");
                 double fahrenheit = Convert.ToDouble(Console.ReadLine());
-                Temperture tempF = new Temperture(fahrenheit);
+                Temperature tempF = new Temperature(fahrenheit);
                 Console.WriteLine($"{fahrenheit} degrees Fahrenheit is {tempF.ToCelsius()} degrees Celsius.");
                 break;
             default:
