@@ -24,10 +24,11 @@ Zad_11 - The code defines a REST API controller that performs full CRUD operatio
 
 Zad_12 - "To Do" List
 
-Zad_13 - Calculator APP
+Zad_13 - Calculator APP + Calculator Tests.
 
 Zad_14 - Converting input to an integer.
 
 Zad_15 - The code creates a simple console application that stores users in a SQLite database, allowing you to add new users and display all saved users through a menu system.
+
 
 
